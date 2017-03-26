@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 
 def function1():
     fp = open("data_set.txt", "r")
